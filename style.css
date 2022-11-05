@@ -1,0 +1,31 @@
+happy{
+	text-align: center;
+}
+happy{
+	max-width: 200px;
+}
+sad{
+    text-align: center; 
+}
+sad{
+    max-width: 200px; 
+}
+mark{
+    background-color: chocolate;
+}
+h1{text-align: center;
+color:#CE242B}
+a {
+    color: #0075B2; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчёркивание у ссылок */
+   }
+   a:visited {
+    color: #8F8E8E; /* Цвет посещённой ссылки */
+   } 
+   a:hover {
+    color: #CE242B; /* Цвет ссылки при наведении */ 
+    text-decoration: underline; /* Добавляем подчёркивание */
+   }
+   body{background-color: rgb(057, 057, 057);}
+p{color:#CE242B}
+ul{color:#CE242B}
