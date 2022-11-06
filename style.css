@@ -10,22 +10,21 @@ sad{
 sad{
     max-width: 200px; 
 }
-mark{
-    background-color: chocolate;
-}
+h2{text-align: center;}
 h1{text-align: center;
-color:#CE242B}
+color:#ff0000}
 a {
-    color: #0075B2; /* Цвет обычной ссылки */ 
-    text-decoration: none; /* Убираем подчёркивание у ссылок */
+    color: #fffdfd; 
+    text-decoration: none; 
    }
    a:visited {
-    color: #8F8E8E; /* Цвет посещённой ссылки */
+    color: #ffffff; 
    } 
    a:hover {
-    color: #CE242B; /* Цвет ссылки при наведении */ 
-    text-decoration: underline; /* Добавляем подчёркивание */
+    color: #d70505; 
+    text-decoration: underline; 
    }
-   body{background-color: rgb(057, 057, 057);}
-p{color:#CE242B}
-ul{color:#CE242B}
+   body{background-color: #DBF9FC;}
+p{color:#ffffff}
+ul{color:#ffffff}
+h3{color:rgb(197, 230, 125)}
